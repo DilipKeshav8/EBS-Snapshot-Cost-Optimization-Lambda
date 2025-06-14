@@ -1,4 +1,6 @@
 ⚡️ EBS Snapshot Cost Optimization Lambda 💰
+
+
 🚀 Overview
 This project implements a cost optimization solution by automatically identifying and deleting stale Amazon EBS snapshots — snapshots no longer associated with any active EC2 instances. This helps reduce unnecessary AWS storage costs.
 
