@@ -63,3 +63,8 @@ Optionally, add SNS notifications for reporting deleted snapshots. 📩
 ❗ Caution: Deleted snapshots cannot be recovered. Make sure your snapshot retention policy aligns with your backup and disaster recovery requirements.
 
 🧪 Test the function in a non-production environment before deploying in production.
+
+📜 License
+MIT License
+
+
